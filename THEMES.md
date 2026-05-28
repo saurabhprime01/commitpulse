@@ -73,19 +73,19 @@ Use these URLs to preview each theme in your README:
 
 ![nord](https://commitpulse.vercel.app/api/badge?username=demo&theme=nord)
 
-**synthwave**
-
-![synthwave](https://commitpulse.vercel.app/api/badge?username=demo&theme=synthwave)
-
 **gruvbox**
 
 ![gruvbox](https://commitpulse.vercel.app/api/badge?username=demo&theme=gruvbox)
+
+**synthwave**
+
+![synthwave](https://commitpulse.vercel.app/api/badge?username=demo&theme=synthwave)
 
 **highcontrast**
 
 ![highcontrast](https://commitpulse.vercel.app/api/badge?username=demo&theme=highcontrast)
 
----
 
 > 💡 **Tip:** Use `?theme=auto` to automatically switch between `light` and `dark` based on the
 > viewer's OS setting.
+https://www.gravatar.com/avatar/429da442a05713817307a69cb97f5819?s=64&d=roboh
